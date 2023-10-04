@@ -1,0 +1,481 @@
+# IoT Sensors List:
+
+
+DHT11/DHT22: 
+- Temperature and humidity sensor.
+
+Ultrasonic Sensor: 
+- Measures distance by emitting ultrasonic waves and measuring their reflection.
+
+PIR Motion Sensor: 
+- Detects movement by sensing changes in infrared radiation.
+
+Gas Sensor (MQ Series): 
+- Detects various gases in the environment such as carbon monoxide, methane, etc.
+
+Light Sensor (LDR): 
+- Measures ambient light levels.
+
+Accelerometer: 
+- Measures acceleration forces.
+
+Gyroscope: 
+- Measures orientation and angular velocity.
+
+Magnetometer: 
+- Measures magnetic field strength and direction.
+
+IR Sensor (Infrared): 
+- Detects the presence of an object by emitting and sensing infrared radiation.
+
+Pressure Sensor (Barometric): 
+- Measures atmospheric pressure.
+
+Smoke Detector: 
+- Detects smoke particles in the air.
+
+Soil Moisture Sensor: 
+- Measures the moisture content in soil.
+
+Water Level Sensor: 
+- Measures the level of water in a container.
+
+CO2 Sensor: 
+- Measures carbon dioxide concentration in the air.
+
+Vibration Sensor: 
+- Detects vibrations or tremors.
+
+RFID Reader: 
+- Reads RFID tags to identify objects or people.
+
+Camera Module (e.g., ESP32-CAM): 
+- Captures images or streams video.
+
+GPS Module: 
+- Determines the geographical location.
+
+IR Blaster/Receiver: 
+- Emits or receives infrared signals used in remote control applications.
+
+Touch Sensor: 
+- Detects touch or proximity without physical contact.
+
+Humidity Sensor: 
+- Measures relative humidity in the air.
+
+Sound Sensor (Microphone): 
+- Detects sound levels or specific frequencies.
+
+Current Sensor: 
+- Measures electric current in a circuit.
+
+Voltage Sensor: 
+- Measures electric voltage.
+
+Water Flow Sensor: 
+- Measures the flow rate of water.
+
+Weight/Load Sensor: 
+- Measures the weight or force applied.
+
+Color Sensor: 
+- Detects and identifies colors.
+
+Heart Rate Sensor: 
+- Measures heart rate and pulse.
+
+Oxygen Sensor (O2): 
+- Measures oxygen levels in the air or in a liquid.
+
+Gesture Recognition Sensor: 
+- Detects specific hand gestures or movements.
+
+Proximity Sensor: 
+- Detects the presence or absence of an object within a certain range.
+
+Temperature Sensor (LM35): 
+- Measures temperature in degrees Celsius.
+
+Pressure Mat: Detects pressure or weight applied to its surface.
+
+Rain Sensor: 
+- Detects rainfall or water presence.
+
+UV Sensor: 
+- Measures ultraviolet (UV) light intensity.
+
+Flame Sensor: 
+- Detects the presence of fire or flames.
+
+CO Sensor (Carbon Monoxide): 
+- Measures carbon monoxide gas levels.
+
+NO2 Sensor (Nitrogen Dioxide): 
+- Measures nitrogen dioxide gas levels.
+
+NH3 Sensor (Ammonia): 
+- Measures ammonia gas levels.
+
+Ozone Sensor: 
+- Measures ozone gas levels.
+
+Alcohol Sensor: 
+- Detects alcohol vapor concentration.
+
+Methane Sensor: 
+- Measures methane gas concentration.
+
+LPG Sensor (Liquefied Petroleum Gas): 
+- Measures LPG gas concentration.
+
+Tilt Sensor: 
+- Detects orientation or tilting.
+
+IR Thermometer: 
+- Measures surface temperature using infrared radiation.
+
+Piezoelectric Sensor: 
+- Converts mechanical stress or vibrations into electrical signals.
+
+CO2 Gas Pressure Sensor: 
+- Measures pressure of carbon dioxide gas.
+
+Moisture Sensor (Humidity/Temperature): 
+- Measures humidity and temperature levels.
+
+Wind Speed Sensor: 
+- Measures the speed of the wind.
+
+Wind Direction Sensor: 
+- Determines the direction from which the wind is blowing.
+
+Laser Distance Sensor: 
+- Measures distance using laser light.
+
+Flow Rate Sensor: 
+- Measures the rate of fluid flow.
+
+pH Sensor: 
+- Measures the acidity or alkalinity of a solution.
+
+EC Sensor (Electrical Conductivity): 
+- Measures the ability of a solution to conduct electricity.
+
+Load Cell: 
+- Measures force or weight applied to it.
+
+Force Sensor: 
+- Measures applied force or pressure.
+
+Strain Gauge: 
+- Measures strain or deformation in an object.
+
+Smoke and CO Combination Sensor: 
+- Detects both smoke particles and carbon monoxide.
+
+Pulse Oximeter Sensor: 
+- Measures oxygen saturation and pulse rate.
+
+VOC Sensor (Volatile Organic Compounds): 
+- Measures the concentration of VOCs in the air.
+
+Water Quality Sensor: 
+- Measures parameters like turbidity, dissolved oxygen, and more.
+
+Piezoresistive Pressure Sensor: 
+- Measures pressure using changes in electrical resistance.
+
+Dissolved Oxygen Sensor: 
+- Measures the amount of oxygen dissolved in water.
+
+Radiation Sensor: 
+- Detects ionizing radiation levels.
+
+Angular Position Sensor: 
+- Measures rotational angle or position.
+
+Hall Effect Sensor: 
+- Detects magnetic fields and measures their strength.
+
+Rotary Encoder: 
+- Measures rotational position and direction.
+
+Joystick Sensor: 
+- Provides directional input based on physical movement.
+
+Inclinometer Sensor: 
+- Measures tilt or inclination.
+
+Rain Gauge: 
+- Measures the amount of rainfall over a specific time.
+
+Heat Flux Sensor: 
+- Measures heat transfer through a surface.
+
+Hydrogen Gas Sensor: 
+- Measures hydrogen gas concentration.
+
+Magnetic Reed Switch: 
+- Detects the presence or absence of a magnetic field.
+
+Tachometer Sensor: 
+- Measures rotational speed (RPM) of a shaft.
+
+Electric Field Sensor: 
+- Measures electric field strength.
+
+Color and Light Sensor: 
+- Detects colors and measures light intensity.
+
+Gas Flow Sensor: 
+- Measures the flow rate of gases.
+
+Collision Detection Sensor: 
+- Detects impacts or collisions.
+
+Tire Pressure Sensor: 
+- Monitors tire pressure in vehicles.
+
+Raindrop Sensor: 
+- Detects raindrop impacts and intensity.
+
+Proximity Capacitive Sensor: 
+- Detects the presence of conductive objects.
+
+Sound Level Sensor: 
+- Measures sound pressure levels.
+
+Infrared Obstacle Avoidance Sensor: 
+- Detects obstacles in the path.
+
+Vibration Motor: 
+- Creates vibrations for haptic feedback.
+
+Humidity and Temperature Transmitter: 
+- Transmits humidity and temperature data wirelessly.
+
+Piezo Buzzer: 
+- Produces sound or alerts.
+
+Gas Leakage Sensor: 
+- Detects leaks of specific gases like methane or propane.
+
+Inductive Proximity Sensor: 
+- Detects metallic objects without physical contact.
+
+RFID/NFC Tag: 
+- Stores and transmits data wirelessly when activated by a reader.
+
+EKG/ECG Sensor: 
+- Measures electrical activity of the heart.
+
+Thermal Imaging Sensor: 
+- Captures infrared radiation to create thermal images.
+
+Liquid Level Sensor: 
+- Measures the level of liquids in tanks or containers.
+
+TDS Sensor (Total Dissolved Solids): 
+- Measures the concentration of dissolved solids in water.
+
+CO2 Infrared Gas Sensor: 
+- Measures carbon dioxide concentration using infrared absorption.
+
+Flow Switch Sensor: 
+- Detects flow or lack of flow in a pipeline.
+
+Barometric Pressure Sensor: 
+- Measures atmospheric pressure for weather forecasting.
+
+Vibration Tilt Sensor: 
+- Combines vibration and tilt detection capabilities.
+
+Piezoelectric Igniter: 
+- Generates sparks for igniting gas appliances.
+
+Light Dependent Resistor (LDR): 
+- Changes resistance based on ambient light.
+
+Pulse Sensor: 
+- Measures heartbeat or pulse rate.
+
+CO Detector (Colorimetric): 
+- Detects carbon monoxide gas through color changes.
+
+Ion Selective Electrode (ISE): 
+- Measures specific ions in a solution.
+
+Thermocouple: 
+- Measures temperature using the Seebeck effect in dissimilar metals.
+
+Humidity and Temperature Sensor (SHT Series): 
+- Measures humidity and temperature accurately.
+
+Hygrometer: 
+- Measures moisture content in the air.
+
+Vibration Piezo Sensor: 
+- Converts mechanical vibrations into electrical signals.
+
+Optical Dust Sensor: 
+- Measures particulate matter (PM) concentration in the air.
+
+Piezoelectric Accelerometer: 
+- Measures acceleration and vibration using piezoelectric effect.
+
+Rotational Hall Effect Sensor: 
+- Measures the angular position of a rotating object.
+
+Pyroelectric Infrared Sensor: 
+- Detects changes in infrared radiation, used in motion detectors.
+
+Weight Sensor: 
+- Measures weight using strain gauges or load cells.
+
+COV (Covariance) Sensor: 
+- Measures changes in multiple variables for anomaly detection.
+
+Thermal Conductivity Gas Sensor: 
+- Measures the thermal conductivity of gases.
+
+Laser Dust Sensor: 
+- Measures PM concentration using laser scattering.
+
+Thermostat: 
+- Controls temperature by switching heating or cooling devices.
+
+Biosensor: 
+- Detects biological molecules and processes, used in medical applications.
+
+Electrochemical Gas Sensor: 
+- Measures gas concentration using electrochemical reactions.
+
+Pressure Transducer: 
+- Converts pressure into an analog electrical signal.
+
+Angular Rate Sensor: 
+- Measures angular velocity or rotational rate.
+
+Chemical Sensor Array: 
+- Detects and identifies various gases using multiple sensors.
+
+Capacitive Touch Sensor: 
+- Detects touch or proximity based on capacitance changes.
+
+Level Switch Sensor: 
+- Detects liquid levels and triggers an action at a specific level.
+
+Magnetic Field Sensor Array: 
+- Measures magnetic field strength in multiple directions.
+
+Conductivity Sensor: 
+- Measures the ability of a solution to conduct electricity.
+
+Pyranometer: 
+- Measures solar radiation intensity received from the sun.
+
+Gas Chromatograph: 
+- Analyzes and separates components of a gas mixture.
+
+Reflective Optical Sensor: 
+- Detects presence or absence of an object using light reflection.
+
+Thermopile Sensor: 
+- Measures temperature based on thermoelectric effect.
+
+COVIRIS (Corona Virus Infrared Sensor): 
+- Detects human body temperature non-contactly.
+
+Gas Microsensor Array: 
+- Identifies gases using a microarray of sensors.
+
+Methane Gas Detector: 
+- Specialized sensor for detecting methane gas leaks.
+
+Weather Station Sensor: 
+- Measures various environmental parameters for weather monitoring.
+
+Inertial Measurement Unit (IMU): 
+- Combines multiple sensors to measure orientation and motion.
+
+Piezoresistive Force Sensor: 
+- Measures force or pressure using changes in resistance.
+
+Breathalyzer Sensor: 
+- Measures blood alcohol content (BAC) through breath analysis.
+
+Viscosity Sensor: 
+- Measures fluid viscosity, often used in industrial processes.
+
+Optical Heart Rate Sensor: 
+- Measures heart rate through optical methods.
+
+Infrared Temperature Sensor (IR Thermopile): 
+- Measures surface temperature remotely.
+
+Tilt Switch Sensor: 
+- Detects tilt or inclination and triggers an action.
+
+Carbon Dioxide Infrared Gas Sensor: 
+- Measures CO2 concentration using IR absorption.
+
+Doppler Radar Sensor: 
+- Detects motion based on Doppler shift of radio waves.
+
+NFC (Near Field Communication) Sensor: 
+- Enables short-range wireless communication.
+
+Pressure Differential Sensor: 
+- Measures the difference in pressure between two points.
+
+Photoionization Detector (PID): 
+- Measures volatile organic compounds (VOCs) and other gases.
+
+Hall Effect Current Sensor: 
+- Measures current through the Hall effect in a conductor.
+
+Leak Detection Sensor: 
+- Detects leaks in pipes or containers.
+
+Carbon Monoxide Infrared Sensor: 
+- Measures CO concentration using IR technology.
+
+Smoke Particle Sensor: 
+- Measures concentration of smoke particles in the air.
+
+Torque Sensor: 
+- Measures rotational force or torque applied to an object.
+
+Turbidity Sensor: 
+- Measures water clarity by detecting suspended particles.
+
+Oxygen Depletion Sensor: 
+- Detects reduced oxygen levels in confined spaces.
+
+Load Cell Amplifier: 
+- Amplifies the signal from a load cell for measurement.
+
+Photodetector (Photodiode): 
+- Converts light into current or voltage.
+
+Inductive Position Sensor: 
+- Measures linear or rotary position using inductance changes.
+
+Digital Tilt Sensor: 
+- Detects tilt or inclination in digital format.
+
+Electromagnetic Flow Meter: 
+- Measures fluid flow rate using electromagnetic induction.
+
+Rotary Torque Sensor: 
+- Measures torque applied to a rotating object.
+
+Microphone Array: 
+- Captures sound from multiple directions for beamforming.
+
+Rotary Position Sensor: 
+- Measures angular position or rotation.
+
+Gas Vortex Flow Sensor: 
+- Measures gas flow using the vortex principle.
